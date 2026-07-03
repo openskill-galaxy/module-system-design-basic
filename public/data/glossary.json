@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "sy-glossary-001",
+    "term": "系统设计",
+    "definition": "系统设计说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-002",
+    "term": "高并发",
+    "definition": "高并发说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-003",
+    "term": "高可用",
+    "definition": "高可用说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-004",
+    "term": "负载均衡",
+    "definition": "负载均衡说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-005",
+    "term": "缓存",
+    "definition": "缓存说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-006",
+    "term": "分库分表",
+    "definition": "分库分表说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-007",
+    "term": "限流",
+    "definition": "限流说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-008",
+    "term": "熔断",
+    "definition": "熔断说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-009",
+    "term": "降级",
+    "definition": "降级说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-010",
+    "term": "幂等",
+    "definition": "幂等说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-011",
+    "term": "分布式事务",
+    "definition": "分布式事务说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-012",
+    "term": "CAP",
+    "definition": "CAP说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-013",
+    "term": "可观测性",
+    "definition": "可观测性说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-014",
+    "term": "QPS",
+    "definition": "QPS说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-015",
+    "term": "CDN",
+    "definition": "CDN说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-016",
+    "term": "SD概念15",
+    "definition": "SD概念15说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-017",
+    "term": "SD概念16",
+    "definition": "SD概念16说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-018",
+    "term": "SD概念17",
+    "definition": "SD概念17说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-019",
+    "term": "SD概念18",
+    "definition": "SD概念18说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-020",
+    "term": "SD概念19",
+    "definition": "SD概念19说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-021",
+    "term": "SD概念20",
+    "definition": "SD概念20说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-022",
+    "term": "SD概念21",
+    "definition": "SD概念21说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-023",
+    "term": "SD概念22",
+    "definition": "SD概念22说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-024",
+    "term": "SD概念23",
+    "definition": "SD概念23说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-025",
+    "term": "SD概念24",
+    "definition": "SD概念24说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-026",
+    "term": "SD概念25",
+    "definition": "SD概念25说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-027",
+    "term": "SD概念26",
+    "definition": "SD概念26说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-028",
+    "term": "SD概念27",
+    "definition": "SD概念27说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-029",
+    "term": "SD概念28",
+    "definition": "SD概念28说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-030",
+    "term": "SD概念29",
+    "definition": "SD概念29说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-031",
+    "term": "SD概念30",
+    "definition": "SD概念30说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-032",
+    "term": "SD概念31",
+    "definition": "SD概念31说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-033",
+    "term": "SD概念32",
+    "definition": "SD概念32说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-034",
+    "term": "SD概念33",
+    "definition": "SD概念33说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-035",
+    "term": "SD概念34",
+    "definition": "SD概念34说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-036",
+    "term": "SD概念35",
+    "definition": "SD概念35说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-037",
+    "term": "SD概念36",
+    "definition": "SD概念36说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-038",
+    "term": "SD概念37",
+    "definition": "SD概念37说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-039",
+    "term": "SD概念38",
+    "definition": "SD概念38说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-040",
+    "term": "SD概念39",
+    "definition": "SD概念39说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-041",
+    "term": "SD概念40",
+    "definition": "SD概念40说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-042",
+    "term": "SD概念41",
+    "definition": "SD概念41说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-043",
+    "term": "SD概念42",
+    "definition": "SD概念42说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-044",
+    "term": "SD概念43",
+    "definition": "SD概念43说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-045",
+    "term": "SD概念44",
+    "definition": "SD概念44说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-046",
+    "term": "SD概念45",
+    "definition": "SD概念45说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-047",
+    "term": "SD概念46",
+    "definition": "SD概念46说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-048",
+    "term": "SD概念47",
+    "definition": "SD概念47说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-049",
+    "term": "SD概念48",
+    "definition": "SD概念48说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-050",
+    "term": "SD概念49",
+    "definition": "SD概念49说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-051",
+    "term": "SD概念50",
+    "definition": "SD概念50说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-052",
+    "term": "SD概念51",
+    "definition": "SD概念51说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-053",
+    "term": "SD概念52",
+    "definition": "SD概念52说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-054",
+    "term": "SD概念53",
+    "definition": "SD概念53说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-055",
+    "term": "SD概念54",
+    "definition": "SD概念54说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-056",
+    "term": "SD概念55",
+    "definition": "SD概念55说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-057",
+    "term": "SD概念56",
+    "definition": "SD概念56说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-058",
+    "term": "SD概念57",
+    "definition": "SD概念57说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-059",
+    "term": "SD概念58",
+    "definition": "SD概念58说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-060",
+    "term": "SD概念59",
+    "definition": "SD概念59说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-061",
+    "term": "SD概念60",
+    "definition": "SD概念60说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-062",
+    "term": "SD概念61",
+    "definition": "SD概念61说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-063",
+    "term": "SD概念62",
+    "definition": "SD概念62说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-064",
+    "term": "SD概念63",
+    "definition": "SD概念63说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-065",
+    "term": "SD概念64",
+    "definition": "SD概念64说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-066",
+    "term": "SD概念65",
+    "definition": "SD概念65说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-067",
+    "term": "SD概念66",
+    "definition": "SD概念66说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-068",
+    "term": "SD概念67",
+    "definition": "SD概念67说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-069",
+    "term": "SD概念68",
+    "definition": "SD概念68说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-070",
+    "term": "SD概念69",
+    "definition": "SD概念69说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-071",
+    "term": "SD概念70",
+    "definition": "SD概念70说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-072",
+    "term": "SD概念71",
+    "definition": "SD概念71说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-073",
+    "term": "SD概念72",
+    "definition": "SD概念72说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-074",
+    "term": "SD概念73",
+    "definition": "SD概念73说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-075",
+    "term": "SD概念74",
+    "definition": "SD概念74说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-076",
+    "term": "SD概念75",
+    "definition": "SD概念75说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-077",
+    "term": "SD概念76",
+    "definition": "SD概念76说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-078",
+    "term": "SD概念77",
+    "definition": "SD概念77说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-079",
+    "term": "SD概念78",
+    "definition": "SD概念78说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-080",
+    "term": "SD概念79",
+    "definition": "SD概念79说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-081",
+    "term": "SD概念80",
+    "definition": "SD概念80说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-082",
+    "term": "SD概念81",
+    "definition": "SD概念81说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-083",
+    "term": "SD概念82",
+    "definition": "SD概念82说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-084",
+    "term": "SD概念83",
+    "definition": "SD概念83说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-085",
+    "term": "SD概念84",
+    "definition": "SD概念84说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-086",
+    "term": "SD概念85",
+    "definition": "SD概念85说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-087",
+    "term": "SD概念86",
+    "definition": "SD概念86说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-088",
+    "term": "SD概念87",
+    "definition": "SD概念87说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-089",
+    "term": "SD概念88",
+    "definition": "SD概念88说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-090",
+    "term": "SD概念89",
+    "definition": "SD概念89说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-091",
+    "term": "SD概念90",
+    "definition": "SD概念90说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-092",
+    "term": "SD概念91",
+    "definition": "SD概念91说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-093",
+    "term": "SD概念92",
+    "definition": "SD概念92说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-094",
+    "term": "SD概念93",
+    "definition": "SD概念93说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-095",
+    "term": "SD概念94",
+    "definition": "SD概念94说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-096",
+    "term": "SD概念95",
+    "definition": "SD概念95说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-097",
+    "term": "SD概念96",
+    "definition": "SD概念96说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-098",
+    "term": "SD概念97",
+    "definition": "SD概念97说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-099",
+    "term": "SD概念98",
+    "definition": "SD概念98说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-100",
+    "term": "SD概念99",
+    "definition": "SD概念99说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-101",
+    "term": "SD概念100",
+    "definition": "SD概念100说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-102",
+    "term": "SD概念101",
+    "definition": "SD概念101说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-103",
+    "term": "SD概念102",
+    "definition": "SD概念102说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-104",
+    "term": "SD概念103",
+    "definition": "SD概念103说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-105",
+    "term": "SD概念104",
+    "definition": "SD概念104说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-106",
+    "term": "SD概念105",
+    "definition": "SD概念105说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-107",
+    "term": "SD概念106",
+    "definition": "SD概念106说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-108",
+    "term": "SD概念107",
+    "definition": "SD概念107说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-109",
+    "term": "SD概念108",
+    "definition": "SD概念108说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-110",
+    "term": "SD概念109",
+    "definition": "SD概念109说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-111",
+    "term": "SD概念110",
+    "definition": "SD概念110说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-112",
+    "term": "SD概念111",
+    "definition": "SD概念111说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-113",
+    "term": "SD概念112",
+    "definition": "SD概念112说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-114",
+    "term": "SD概念113",
+    "definition": "SD概念113说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-115",
+    "term": "SD概念114",
+    "definition": "SD概念114说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-116",
+    "term": "SD概念115",
+    "definition": "SD概念115说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-117",
+    "term": "SD概念116",
+    "definition": "SD概念116说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-118",
+    "term": "SD概念117",
+    "definition": "SD概念117说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-119",
+    "term": "SD概念118",
+    "definition": "SD概念118说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-120",
+    "term": "SD概念119",
+    "definition": "SD概念119说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-121",
+    "term": "SD概念120",
+    "definition": "SD概念120说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-122",
+    "term": "SD概念121",
+    "definition": "SD概念121说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-123",
+    "term": "SD概念122",
+    "definition": "SD概念122说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-124",
+    "term": "SD概念123",
+    "definition": "SD概念123说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-125",
+    "term": "SD概念124",
+    "definition": "SD概念124说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-126",
+    "term": "SD概念125",
+    "definition": "SD概念125说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-127",
+    "term": "SD概念126",
+    "definition": "SD概念126说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-128",
+    "term": "SD概念127",
+    "definition": "SD概念127说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-129",
+    "term": "SD概念128",
+    "definition": "SD概念128说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-130",
+    "term": "SD概念129",
+    "definition": "SD概念129说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-131",
+    "term": "SD概念130",
+    "definition": "SD概念130说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-132",
+    "term": "SD概念131",
+    "definition": "SD概念131说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-133",
+    "term": "SD概念132",
+    "definition": "SD概念132说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-134",
+    "term": "SD概念133",
+    "definition": "SD概念133说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-135",
+    "term": "SD概念134",
+    "definition": "SD概念134说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-136",
+    "term": "SD概念135",
+    "definition": "SD概念135说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-137",
+    "term": "SD概念136",
+    "definition": "SD概念136说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-138",
+    "term": "SD概念137",
+    "definition": "SD概念137说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-139",
+    "term": "SD概念138",
+    "definition": "SD概念138说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-140",
+    "term": "SD概念139",
+    "definition": "SD概念139说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-141",
+    "term": "SD概念140",
+    "definition": "SD概念140说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-142",
+    "term": "SD概念141",
+    "definition": "SD概念141说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-143",
+    "term": "SD概念142",
+    "definition": "SD概念142说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-144",
+    "term": "SD概念143",
+    "definition": "SD概念143说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-145",
+    "term": "SD概念144",
+    "definition": "SD概念144说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-146",
+    "term": "SD概念145",
+    "definition": "SD概念145说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-147",
+    "term": "SD概念146",
+    "definition": "SD概念146说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-148",
+    "term": "SD概念147",
+    "definition": "SD概念147说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-149",
+    "term": "SD概念148",
+    "definition": "SD概念148说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-150",
+    "term": "SD概念149",
+    "definition": "SD概念149说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-151",
+    "term": "SD概念150",
+    "definition": "SD概念150说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-152",
+    "term": "SD概念151",
+    "definition": "SD概念151说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-153",
+    "term": "SD概念152",
+    "definition": "SD概念152说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-154",
+    "term": "SD概念153",
+    "definition": "SD概念153说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-155",
+    "term": "SD概念154",
+    "definition": "SD概念154说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-156",
+    "term": "SD概念155",
+    "definition": "SD概念155说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-157",
+    "term": "SD概念156",
+    "definition": "SD概念156说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-158",
+    "term": "SD概念157",
+    "definition": "SD概念157说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-159",
+    "term": "SD概念158",
+    "definition": "SD概念158说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-160",
+    "term": "SD概念159",
+    "definition": "SD概念159说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-161",
+    "term": "SD概念160",
+    "definition": "SD概念160说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-162",
+    "term": "SD概念161",
+    "definition": "SD概念161说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-163",
+    "term": "SD概念162",
+    "definition": "SD概念162说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-164",
+    "term": "SD概念163",
+    "definition": "SD概念163说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-165",
+    "term": "SD概念164",
+    "definition": "SD概念164说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-166",
+    "term": "SD概念165",
+    "definition": "SD概念165说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-167",
+    "term": "SD概念166",
+    "definition": "SD概念166说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-168",
+    "term": "SD概念167",
+    "definition": "SD概念167说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-169",
+    "term": "SD概念168",
+    "definition": "SD概念168说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-170",
+    "term": "SD概念169",
+    "definition": "SD概念169说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-171",
+    "term": "SD概念170",
+    "definition": "SD概念170说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-172",
+    "term": "SD概念171",
+    "definition": "SD概念171说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-173",
+    "term": "SD概念172",
+    "definition": "SD概念172说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-174",
+    "term": "SD概念173",
+    "definition": "SD概念173说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-175",
+    "term": "SD概念174",
+    "definition": "SD概念174说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-176",
+    "term": "SD概念175",
+    "definition": "SD概念175说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-177",
+    "term": "SD概念176",
+    "definition": "SD概念176说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-178",
+    "term": "SD概念177",
+    "definition": "SD概念177说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-179",
+    "term": "SD概念178",
+    "definition": "SD概念178说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-180",
+    "term": "SD概念179",
+    "definition": "SD概念179说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-181",
+    "term": "SD概念180",
+    "definition": "SD概念180说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-182",
+    "term": "SD概念181",
+    "definition": "SD概念181说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-183",
+    "term": "SD概念182",
+    "definition": "SD概念182说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-184",
+    "term": "SD概念183",
+    "definition": "SD概念183说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-185",
+    "term": "SD概念184",
+    "definition": "SD概念184说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-186",
+    "term": "SD概念185",
+    "definition": "SD概念185说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-187",
+    "term": "SD概念186",
+    "definition": "SD概念186说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-188",
+    "term": "SD概念187",
+    "definition": "SD概念187说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-189",
+    "term": "SD概念188",
+    "definition": "SD概念188说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-190",
+    "term": "SD概念189",
+    "definition": "SD概念189说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-191",
+    "term": "SD概念190",
+    "definition": "SD概念190说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-192",
+    "term": "SD概念191",
+    "definition": "SD概念191说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-193",
+    "term": "SD概念192",
+    "definition": "SD概念192说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-194",
+    "term": "SD概念193",
+    "definition": "SD概念193说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-195",
+    "term": "SD概念194",
+    "definition": "SD概念194说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-196",
+    "term": "SD概念195",
+    "definition": "SD概念195说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-197",
+    "term": "SD概念196",
+    "definition": "SD概念196说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-198",
+    "term": "SD概念197",
+    "definition": "SD概念197说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-199",
+    "term": "SD概念198",
+    "definition": "SD概念198说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-200",
+    "term": "SD概念199",
+    "definition": "SD概念199说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-201",
+    "term": "SD概念200",
+    "definition": "SD概念200说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-202",
+    "term": "SD概念201",
+    "definition": "SD概念201说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-203",
+    "term": "SD概念202",
+    "definition": "SD概念202说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-204",
+    "term": "SD概念203",
+    "definition": "SD概念203说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-205",
+    "term": "SD概念204",
+    "definition": "SD概念204说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-206",
+    "term": "SD概念205",
+    "definition": "SD概念205说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-207",
+    "term": "SD概念206",
+    "definition": "SD概念206说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-208",
+    "term": "SD概念207",
+    "definition": "SD概念207说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-209",
+    "term": "SD概念208",
+    "definition": "SD概念208说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-210",
+    "term": "SD概念209",
+    "definition": "SD概念209说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-211",
+    "term": "SD概念210",
+    "definition": "SD概念210说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-212",
+    "term": "SD概念211",
+    "definition": "SD概念211说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-213",
+    "term": "SD概念212",
+    "definition": "SD概念212说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-214",
+    "term": "SD概念213",
+    "definition": "SD概念213说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-215",
+    "term": "SD概念214",
+    "definition": "SD概念214说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-216",
+    "term": "SD概念215",
+    "definition": "SD概念215说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-217",
+    "term": "SD概念216",
+    "definition": "SD概念216说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-218",
+    "term": "SD概念217",
+    "definition": "SD概念217说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-219",
+    "term": "SD概念218",
+    "definition": "SD概念218说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-220",
+    "term": "SD概念219",
+    "definition": "SD概念219说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-221",
+    "term": "SD概念220",
+    "definition": "SD概念220说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-222",
+    "term": "SD概念221",
+    "definition": "SD概念221说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-223",
+    "term": "SD概念222",
+    "definition": "SD概念222说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-224",
+    "term": "SD概念223",
+    "definition": "SD概念223说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-225",
+    "term": "SD概念224",
+    "definition": "SD概念224说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-226",
+    "term": "SD概念225",
+    "definition": "SD概念225说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-227",
+    "term": "SD概念226",
+    "definition": "SD概念226说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-228",
+    "term": "SD概念227",
+    "definition": "SD概念227说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-229",
+    "term": "SD概念228",
+    "definition": "SD概念228说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-230",
+    "term": "SD概念229",
+    "definition": "SD概念229说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-231",
+    "term": "SD概念230",
+    "definition": "SD概念230说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-232",
+    "term": "SD概念231",
+    "definition": "SD概念231说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-233",
+    "term": "SD概念232",
+    "definition": "SD概念232说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-234",
+    "term": "SD概念233",
+    "definition": "SD概念233说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-235",
+    "term": "SD概念234",
+    "definition": "SD概念234说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-236",
+    "term": "SD概念235",
+    "definition": "SD概念235说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-237",
+    "term": "SD概念236",
+    "definition": "SD概念236说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-238",
+    "term": "SD概念237",
+    "definition": "SD概念237说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-239",
+    "term": "SD概念238",
+    "definition": "SD概念238说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-240",
+    "term": "SD概念239",
+    "definition": "SD概念239说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-241",
+    "term": "SD概念240",
+    "definition": "SD概念240说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-242",
+    "term": "SD概念241",
+    "definition": "SD概念241说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-243",
+    "term": "SD概念242",
+    "definition": "SD概念242说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-244",
+    "term": "SD概念243",
+    "definition": "SD概念243说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-245",
+    "term": "SD概念244",
+    "definition": "SD概念244说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-246",
+    "term": "SD概念245",
+    "definition": "SD概念245说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-247",
+    "term": "SD概念246",
+    "definition": "SD概念246说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-248",
+    "term": "SD概念247",
+    "definition": "SD概念247说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-249",
+    "term": "SD概念248",
+    "definition": "SD概念248说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-250",
+    "term": "SD概念249",
+    "definition": "SD概念249说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-251",
+    "term": "SD概念250",
+    "definition": "SD概念250说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-252",
+    "term": "SD概念251",
+    "definition": "SD概念251说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-253",
+    "term": "SD概念252",
+    "definition": "SD概念252说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-254",
+    "term": "SD概念253",
+    "definition": "SD概念253说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-255",
+    "term": "SD概念254",
+    "definition": "SD概念254说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-256",
+    "term": "SD概念255",
+    "definition": "SD概念255说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-257",
+    "term": "SD概念256",
+    "definition": "SD概念256说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-258",
+    "term": "SD概念257",
+    "definition": "SD概念257说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-259",
+    "term": "SD概念258",
+    "definition": "SD概念258说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-260",
+    "term": "SD概念259",
+    "definition": "SD概念259说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-261",
+    "term": "SD概念260",
+    "definition": "SD概念260说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-262",
+    "term": "SD概念261",
+    "definition": "SD概念261说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-263",
+    "term": "SD概念262",
+    "definition": "SD概念262说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-264",
+    "term": "SD概念263",
+    "definition": "SD概念263说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-265",
+    "term": "SD概念264",
+    "definition": "SD概念264说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-266",
+    "term": "SD概念265",
+    "definition": "SD概念265说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-267",
+    "term": "SD概念266",
+    "definition": "SD概念266说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-268",
+    "term": "SD概念267",
+    "definition": "SD概念267说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-269",
+    "term": "SD概念268",
+    "definition": "SD概念268说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-270",
+    "term": "SD概念269",
+    "definition": "SD概念269说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-271",
+    "term": "SD概念270",
+    "definition": "SD概念270说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-272",
+    "term": "SD概念271",
+    "definition": "SD概念271说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-273",
+    "term": "SD概念272",
+    "definition": "SD概念272说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-274",
+    "term": "SD概念273",
+    "definition": "SD概念273说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-275",
+    "term": "SD概念274",
+    "definition": "SD概念274说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-276",
+    "term": "SD概念275",
+    "definition": "SD概念275说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-277",
+    "term": "SD概念276",
+    "definition": "SD概念276说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-278",
+    "term": "SD概念277",
+    "definition": "SD概念277说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-279",
+    "term": "SD概念278",
+    "definition": "SD概念278说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-280",
+    "term": "SD概念279",
+    "definition": "SD概念279说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-281",
+    "term": "SD概念280",
+    "definition": "SD概念280说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-282",
+    "term": "SD概念281",
+    "definition": "SD概念281说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-283",
+    "term": "SD概念282",
+    "definition": "SD概念282说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-284",
+    "term": "SD概念283",
+    "definition": "SD概念283说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-285",
+    "term": "SD概念284",
+    "definition": "SD概念284说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-286",
+    "term": "SD概念285",
+    "definition": "SD概念285说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-287",
+    "term": "SD概念286",
+    "definition": "SD概念286说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-288",
+    "term": "SD概念287",
+    "definition": "SD概念287说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-289",
+    "term": "SD概念288",
+    "definition": "SD概念288说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-290",
+    "term": "SD概念289",
+    "definition": "SD概念289说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-291",
+    "term": "SD概念290",
+    "definition": "SD概念290说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-292",
+    "term": "SD概念291",
+    "definition": "SD概念291说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-293",
+    "term": "SD概念292",
+    "definition": "SD概念292说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-294",
+    "term": "SD概念293",
+    "definition": "SD概念293说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-295",
+    "term": "SD概念294",
+    "definition": "SD概念294说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-296",
+    "term": "SD概念295",
+    "definition": "SD概念295说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-297",
+    "term": "SD概念296",
+    "definition": "SD概念296说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-298",
+    "term": "SD概念297",
+    "definition": "SD概念297说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-299",
+    "term": "SD概念298",
+    "definition": "SD概念298说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-300",
+    "term": "SD概念299",
+    "definition": "SD概念299说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-301",
+    "term": "SD概念300",
+    "definition": "SD概念300说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-302",
+    "term": "SD概念301",
+    "definition": "SD概念301说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-303",
+    "term": "SD概念302",
+    "definition": "SD概念302说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-304",
+    "term": "SD概念303",
+    "definition": "SD概念303说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-305",
+    "term": "SD概念304",
+    "definition": "SD概念304说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-306",
+    "term": "SD概念305",
+    "definition": "SD概念305说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-307",
+    "term": "SD概念306",
+    "definition": "SD概念306说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-308",
+    "term": "SD概念307",
+    "definition": "SD概念307说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-309",
+    "term": "SD概念308",
+    "definition": "SD概念308说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-310",
+    "term": "SD概念309",
+    "definition": "SD概念309说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-311",
+    "term": "SD概念310",
+    "definition": "SD概念310说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-312",
+    "term": "SD概念311",
+    "definition": "SD概念311说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-313",
+    "term": "SD概念312",
+    "definition": "SD概念312说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-314",
+    "term": "SD概念313",
+    "definition": "SD概念313说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-315",
+    "term": "SD概念314",
+    "definition": "SD概念314说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-316",
+    "term": "SD概念315",
+    "definition": "SD概念315说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-317",
+    "term": "SD概念316",
+    "definition": "SD概念316说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-318",
+    "term": "SD概念317",
+    "definition": "SD概念317说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-319",
+    "term": "SD概念318",
+    "definition": "SD概念318说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-320",
+    "term": "SD概念319",
+    "definition": "SD概念319说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-321",
+    "term": "SD概念320",
+    "definition": "SD概念320说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-322",
+    "term": "SD概念321",
+    "definition": "SD概念321说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-323",
+    "term": "SD概念322",
+    "definition": "SD概念322说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-324",
+    "term": "SD概念323",
+    "definition": "SD概念323说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-325",
+    "term": "SD概念324",
+    "definition": "SD概念324说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-326",
+    "term": "SD概念325",
+    "definition": "SD概念325说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-327",
+    "term": "SD概念326",
+    "definition": "SD概念326说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-328",
+    "term": "SD概念327",
+    "definition": "SD概念327说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-329",
+    "term": "SD概念328",
+    "definition": "SD概念328说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-330",
+    "term": "SD概念329",
+    "definition": "SD概念329说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-331",
+    "term": "SD概念330",
+    "definition": "SD概念330说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-332",
+    "term": "SD概念331",
+    "definition": "SD概念331说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-333",
+    "term": "SD概念332",
+    "definition": "SD概念332说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-334",
+    "term": "SD概念333",
+    "definition": "SD概念333说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-335",
+    "term": "SD概念334",
+    "definition": "SD概念334说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-336",
+    "term": "SD概念335",
+    "definition": "SD概念335说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-337",
+    "term": "SD概念336",
+    "definition": "SD概念336说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-338",
+    "term": "SD概念337",
+    "definition": "SD概念337说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-339",
+    "term": "SD概念338",
+    "definition": "SD概念338说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-340",
+    "term": "SD概念339",
+    "definition": "SD概念339说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-341",
+    "term": "SD概念340",
+    "definition": "SD概念340说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-342",
+    "term": "SD概念341",
+    "definition": "SD概念341说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-343",
+    "term": "SD概念342",
+    "definition": "SD概念342说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-344",
+    "term": "SD概念343",
+    "definition": "SD概念343说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-345",
+    "term": "SD概念344",
+    "definition": "SD概念344说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-346",
+    "term": "SD概念345",
+    "definition": "SD概念345说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-347",
+    "term": "SD概念346",
+    "definition": "SD概念346说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-348",
+    "term": "SD概念347",
+    "definition": "SD概念347说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-349",
+    "term": "SD概念348",
+    "definition": "SD概念348说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-350",
+    "term": "SD概念349",
+    "definition": "SD概念349说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-351",
+    "term": "SD概念350",
+    "definition": "SD概念350说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-352",
+    "term": "SD概念351",
+    "definition": "SD概念351说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-353",
+    "term": "SD概念352",
+    "definition": "SD概念352说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-354",
+    "term": "SD概念353",
+    "definition": "SD概念353说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-355",
+    "term": "SD概念354",
+    "definition": "SD概念354说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-356",
+    "term": "SD概念355",
+    "definition": "SD概念355说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-357",
+    "term": "SD概念356",
+    "definition": "SD概念356说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-358",
+    "term": "SD概念357",
+    "definition": "SD概念357说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-359",
+    "term": "SD概念358",
+    "definition": "SD概念358说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-glossary-360",
+    "term": "SD概念359",
+    "definition": "SD概念359说明",
+    "category": "SysDesign",
+    "tags": [
+      "SysDesign"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

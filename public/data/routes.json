@@ -1,0 +1,527 @@
+[
+  {
+    "id": "sy-route-01",
+    "slug": "SD路线1",
+    "title": "SD路线1",
+    "description": "SD路线1",
+    "targetUser": "目标1",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-02",
+    "slug": "SD路线2",
+    "title": "SD路线2",
+    "description": "SD路线2",
+    "targetUser": "目标2",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-03",
+    "slug": "SD路线3",
+    "title": "SD路线3",
+    "description": "SD路线3",
+    "targetUser": "目标3",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-04",
+    "slug": "SD路线4",
+    "title": "SD路线4",
+    "description": "SD路线4",
+    "targetUser": "目标4",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-05",
+    "slug": "SD路线5",
+    "title": "SD路线5",
+    "description": "SD路线5",
+    "targetUser": "目标5",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-06",
+    "slug": "SD路线6",
+    "title": "SD路线6",
+    "description": "SD路线6",
+    "targetUser": "目标6",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-07",
+    "slug": "SD路线7",
+    "title": "SD路线7",
+    "description": "SD路线7",
+    "targetUser": "目标7",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-08",
+    "slug": "SD路线8",
+    "title": "SD路线8",
+    "description": "SD路线8",
+    "targetUser": "目标8",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-09",
+    "slug": "SD路线9",
+    "title": "SD路线9",
+    "description": "SD路线9",
+    "targetUser": "目标9",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-10",
+    "slug": "SD路线10",
+    "title": "SD路线10",
+    "description": "SD路线10",
+    "targetUser": "目标10",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-11",
+    "slug": "SD路线11",
+    "title": "SD路线11",
+    "description": "SD路线11",
+    "targetUser": "目标11",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-12",
+    "slug": "SD路线12",
+    "title": "SD路线12",
+    "description": "SD路线12",
+    "targetUser": "目标12",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-13",
+    "slug": "SD路线13",
+    "title": "SD路线13",
+    "description": "SD路线13",
+    "targetUser": "目标13",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-14",
+    "slug": "SD路线14",
+    "title": "SD路线14",
+    "description": "SD路线14",
+    "targetUser": "目标14",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-15",
+    "slug": "SD路线15",
+    "title": "SD路线15",
+    "description": "SD路线15",
+    "targetUser": "目标15",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-16",
+    "slug": "SD路线16",
+    "title": "SD路线16",
+    "description": "SD路线16",
+    "targetUser": "目标16",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-17",
+    "slug": "SD路线17",
+    "title": "SD路线17",
+    "description": "SD路线17",
+    "targetUser": "目标17",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-18",
+    "slug": "SD路线18",
+    "title": "SD路线18",
+    "description": "SD路线18",
+    "targetUser": "目标18",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-19",
+    "slug": "SD路线19",
+    "title": "SD路线19",
+    "description": "SD路线19",
+    "targetUser": "目标19",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-20",
+    "slug": "SD路线20",
+    "title": "SD路线20",
+    "description": "SD路线20",
+    "targetUser": "目标20",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-21",
+    "slug": "SD路线21",
+    "title": "SD路线21",
+    "description": "SD路线21",
+    "targetUser": "目标21",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-22",
+    "slug": "SD路线22",
+    "title": "SD路线22",
+    "description": "SD路线22",
+    "targetUser": "目标22",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-23",
+    "slug": "SD路线23",
+    "title": "SD路线23",
+    "description": "SD路线23",
+    "targetUser": "目标23",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-24",
+    "slug": "SD路线24",
+    "title": "SD路线24",
+    "description": "SD路线24",
+    "targetUser": "目标24",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-25",
+    "slug": "SD路线25",
+    "title": "SD路线25",
+    "description": "SD路线25",
+    "targetUser": "目标25",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-26",
+    "slug": "SD路线26",
+    "title": "SD路线26",
+    "description": "SD路线26",
+    "targetUser": "目标26",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-27",
+    "slug": "SD路线27",
+    "title": "SD路线27",
+    "description": "SD路线27",
+    "targetUser": "目标27",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-28",
+    "slug": "SD路线28",
+    "title": "SD路线28",
+    "description": "SD路线28",
+    "targetUser": "目标28",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-29",
+    "slug": "SD路线29",
+    "title": "SD路线29",
+    "description": "SD路线29",
+    "targetUser": "目标29",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-30",
+    "slug": "SD路线30",
+    "title": "SD路线30",
+    "description": "SD路线30",
+    "targetUser": "目标30",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-31",
+    "slug": "SD路线31",
+    "title": "SD路线31",
+    "description": "SD路线31",
+    "targetUser": "目标31",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-32",
+    "slug": "SD路线32",
+    "title": "SD路线32",
+    "description": "SD路线32",
+    "targetUser": "目标32",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-33",
+    "slug": "SD路线33",
+    "title": "SD路线33",
+    "description": "SD路线33",
+    "targetUser": "目标33",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-34",
+    "slug": "SD路线34",
+    "title": "SD路线34",
+    "description": "SD路线34",
+    "targetUser": "目标34",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "sy-route-35",
+    "slug": "SD路线35",
+    "title": "SD路线35",
+    "description": "SD路线35",
+    "targetUser": "目标35",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "mod-system-design-basic",
+  "slug": "module-system-design-basic",
+  "title": "系统设计与架构基础",
+  "subtitle": "面向后端和架构入门者",
+  "description": "面向后端全栈架构入门和系统设计面试学习者的高并发高可用缓存数据库扩展消息队列限流熔断幂等一致性可观测性与系统设计案例训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "系统设计",
+    "架构设计",
+    "高并发",
+    "高可用",
+    "缓存",
+    "分库分表",
+    "限流熔断",
+    "面试"
+  ],
+  "estimatedHours": 190,
+  "difficulty": "advanced",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🏗️",
+  "repoUrl": "https://github.com/openskill-galaxy/module-system-design-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 122
+  }
+}

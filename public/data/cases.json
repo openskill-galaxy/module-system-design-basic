@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "sy-case-001",
+    "title": "短链接系统案例1",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002190",
+      "sy-q-000063",
+      "sy-q-001552"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-002",
+    "title": "秒杀系统案例2",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002470",
+      "sy-q-001125",
+      "sy-q-002318"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-003",
+    "title": "登录系统案例3",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002060",
+      "sy-q-000493",
+      "sy-q-000986"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-004",
+    "title": "文件上传案例4",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000286",
+      "sy-q-002886",
+      "sy-q-000140"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-005",
+    "title": "消息通知案例5",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002490",
+      "sy-q-001846",
+      "sy-q-000420"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-006",
+    "title": "评论系统案例6",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001862",
+      "sy-q-002866",
+      "sy-q-003381"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-007",
+    "title": "点赞系统案例7",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000646",
+      "sy-q-002366",
+      "sy-q-001606"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-008",
+    "title": "排行榜案例8",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001220",
+      "sy-q-001285",
+      "sy-q-000714"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-009",
+    "title": "搜索系统案例9",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003459",
+      "sy-q-002936",
+      "sy-q-003124"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-010",
+    "title": "Feed流案例10",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003404",
+      "sy-q-001776",
+      "sy-q-001496"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-011",
+    "title": "订单系统案例11",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003450",
+      "sy-q-000694",
+      "sy-q-002306"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-012",
+    "title": "支付状态案例12",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000696",
+      "sy-q-000483",
+      "sy-q-000183"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-013",
+    "title": "库存系统案例13",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001651",
+      "sy-q-000802",
+      "sy-q-000721"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-014",
+    "title": "网盘系统案例14",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001387",
+      "sy-q-000194",
+      "sy-q-001804"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-015",
+    "title": "在线教育案例15",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002490",
+      "sy-q-000323",
+      "sy-q-000990"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-016",
+    "title": "AI问答案例16",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000184",
+      "sy-q-002179",
+      "sy-q-002551"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-017",
+    "title": "缓存架构案例17",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001631",
+      "sy-q-001908",
+      "sy-q-003112"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-018",
+    "title": "限流方案案例18",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001912",
+      "sy-q-000723",
+      "sy-q-001847"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-019",
+    "title": "分库分表案例19",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001548",
+      "sy-q-001565",
+      "sy-q-001448"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-020",
+    "title": "系统设计面试案例20",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002741",
+      "sy-q-001246",
+      "sy-q-001848"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-021",
+    "title": "短链接系统案例21",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002859",
+      "sy-q-002990",
+      "sy-q-000619"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-022",
+    "title": "秒杀系统案例22",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001216",
+      "sy-q-003552",
+      "sy-q-001503"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-023",
+    "title": "登录系统案例23",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000078",
+      "sy-q-000304",
+      "sy-q-000110"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-024",
+    "title": "文件上传案例24",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001687",
+      "sy-q-000930",
+      "sy-q-003539"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-025",
+    "title": "消息通知案例25",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001223",
+      "sy-q-000909",
+      "sy-q-000180"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-026",
+    "title": "评论系统案例26",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001525",
+      "sy-q-002405",
+      "sy-q-000571"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-027",
+    "title": "点赞系统案例27",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001428",
+      "sy-q-001467",
+      "sy-q-002694"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-028",
+    "title": "排行榜案例28",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002841",
+      "sy-q-002852",
+      "sy-q-000059"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-029",
+    "title": "搜索系统案例29",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002104",
+      "sy-q-000689",
+      "sy-q-003641"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-030",
+    "title": "Feed流案例30",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003044",
+      "sy-q-001376",
+      "sy-q-001119"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-031",
+    "title": "订单系统案例31",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001617",
+      "sy-q-002551",
+      "sy-q-003102"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-032",
+    "title": "支付状态案例32",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001153",
+      "sy-q-003424",
+      "sy-q-002755"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-033",
+    "title": "库存系统案例33",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003371",
+      "sy-q-000302",
+      "sy-q-003029"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-034",
+    "title": "网盘系统案例34",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003537",
+      "sy-q-002122",
+      "sy-q-001759"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-035",
+    "title": "在线教育案例35",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003281",
+      "sy-q-000206",
+      "sy-q-001543"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-036",
+    "title": "AI问答案例36",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001925",
+      "sy-q-000954",
+      "sy-q-000190"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-037",
+    "title": "缓存架构案例37",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001479",
+      "sy-q-000381",
+      "sy-q-001009"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-038",
+    "title": "限流方案案例38",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000429",
+      "sy-q-000473",
+      "sy-q-003226"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-039",
+    "title": "分库分表案例39",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002143",
+      "sy-q-002326",
+      "sy-q-000422"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-040",
+    "title": "系统设计面试案例40",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003263",
+      "sy-q-001544",
+      "sy-q-001889"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-041",
+    "title": "短链接系统案例41",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002989",
+      "sy-q-000287",
+      "sy-q-001571"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-042",
+    "title": "秒杀系统案例42",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001631",
+      "sy-q-001914",
+      "sy-q-001824"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-043",
+    "title": "登录系统案例43",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003173",
+      "sy-q-001591",
+      "sy-q-001319"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-044",
+    "title": "文件上传案例44",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002871",
+      "sy-q-001204",
+      "sy-q-000380"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-045",
+    "title": "消息通知案例45",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001986",
+      "sy-q-003580",
+      "sy-q-000916"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-046",
+    "title": "评论系统案例46",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002607",
+      "sy-q-002600",
+      "sy-q-003240"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-047",
+    "title": "点赞系统案例47",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003059",
+      "sy-q-001469",
+      "sy-q-003433"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-048",
+    "title": "排行榜案例48",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000516",
+      "sy-q-000022",
+      "sy-q-002929"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-049",
+    "title": "搜索系统案例49",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001270",
+      "sy-q-002608",
+      "sy-q-003691"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-050",
+    "title": "Feed流案例50",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002855",
+      "sy-q-000233",
+      "sy-q-001621"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-051",
+    "title": "订单系统案例51",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002816",
+      "sy-q-002838",
+      "sy-q-003198"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-052",
+    "title": "支付状态案例52",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002364",
+      "sy-q-001864",
+      "sy-q-001781"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-053",
+    "title": "库存系统案例53",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002030",
+      "sy-q-001439",
+      "sy-q-002358"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-054",
+    "title": "网盘系统案例54",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003371",
+      "sy-q-003550",
+      "sy-q-001348"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-055",
+    "title": "在线教育案例55",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003431",
+      "sy-q-001947",
+      "sy-q-001791"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-056",
+    "title": "AI问答案例56",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001188",
+      "sy-q-002178",
+      "sy-q-003248"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-057",
+    "title": "缓存架构案例57",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002809",
+      "sy-q-002189",
+      "sy-q-002727"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-058",
+    "title": "限流方案案例58",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002443",
+      "sy-q-002804",
+      "sy-q-001185"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-059",
+    "title": "分库分表案例59",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000561",
+      "sy-q-001304",
+      "sy-q-002187"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-060",
+    "title": "系统设计面试案例60",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003639",
+      "sy-q-002605",
+      "sy-q-001926"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-061",
+    "title": "短链接系统案例61",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001233",
+      "sy-q-001537",
+      "sy-q-001914"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-062",
+    "title": "秒杀系统案例62",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002476",
+      "sy-q-002659",
+      "sy-q-000568"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-063",
+    "title": "登录系统案例63",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000779",
+      "sy-q-002700",
+      "sy-q-000045"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-064",
+    "title": "文件上传案例64",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001897",
+      "sy-q-001575",
+      "sy-q-002452"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-065",
+    "title": "消息通知案例65",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002160",
+      "sy-q-002498",
+      "sy-q-003573"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-066",
+    "title": "评论系统案例66",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003193",
+      "sy-q-000189",
+      "sy-q-000218"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-067",
+    "title": "点赞系统案例67",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002275",
+      "sy-q-000729",
+      "sy-q-000171"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-068",
+    "title": "排行榜案例68",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002426",
+      "sy-q-003561",
+      "sy-q-001259"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-069",
+    "title": "搜索系统案例69",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003205",
+      "sy-q-002980",
+      "sy-q-001104"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-070",
+    "title": "Feed流案例70",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002558",
+      "sy-q-000602",
+      "sy-q-001310"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-071",
+    "title": "订单系统案例71",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000188",
+      "sy-q-000067",
+      "sy-q-002551"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-072",
+    "title": "支付状态案例72",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001791",
+      "sy-q-003180",
+      "sy-q-001827"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-073",
+    "title": "库存系统案例73",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001788",
+      "sy-q-000797",
+      "sy-q-002624"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-074",
+    "title": "网盘系统案例74",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001257",
+      "sy-q-002072",
+      "sy-q-003601"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-075",
+    "title": "在线教育案例75",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002099",
+      "sy-q-000500",
+      "sy-q-000388"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-076",
+    "title": "AI问答案例76",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001451",
+      "sy-q-000110",
+      "sy-q-001081"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-077",
+    "title": "缓存架构案例77",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000319",
+      "sy-q-002251",
+      "sy-q-002642"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-078",
+    "title": "限流方案案例78",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002898",
+      "sy-q-000347",
+      "sy-q-003317"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-079",
+    "title": "分库分表案例79",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000739",
+      "sy-q-002388",
+      "sy-q-003337"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-080",
+    "title": "系统设计面试案例80",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001656",
+      "sy-q-001936",
+      "sy-q-002313"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-081",
+    "title": "短链接系统案例81",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001781",
+      "sy-q-003251",
+      "sy-q-003335"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-082",
+    "title": "秒杀系统案例82",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000203",
+      "sy-q-000226",
+      "sy-q-000488"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-083",
+    "title": "登录系统案例83",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001136",
+      "sy-q-001640",
+      "sy-q-003603"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-084",
+    "title": "文件上传案例84",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000048",
+      "sy-q-002656",
+      "sy-q-001254"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-085",
+    "title": "消息通知案例85",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002227",
+      "sy-q-001902",
+      "sy-q-003387"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-086",
+    "title": "评论系统案例86",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002021",
+      "sy-q-000872",
+      "sy-q-003039"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-087",
+    "title": "点赞系统案例87",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002575",
+      "sy-q-002359",
+      "sy-q-001383"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-088",
+    "title": "排行榜案例88",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001287",
+      "sy-q-000441",
+      "sy-q-002248"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-089",
+    "title": "搜索系统案例89",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001015",
+      "sy-q-003299",
+      "sy-q-000508"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-090",
+    "title": "Feed流案例90",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001335",
+      "sy-q-000438",
+      "sy-q-002809"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-091",
+    "title": "订单系统案例91",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002494",
+      "sy-q-002338",
+      "sy-q-000637"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-092",
+    "title": "支付状态案例92",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002716",
+      "sy-q-000151",
+      "sy-q-000326"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-093",
+    "title": "库存系统案例93",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003224",
+      "sy-q-003251",
+      "sy-q-000602"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-094",
+    "title": "网盘系统案例94",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003699",
+      "sy-q-000592",
+      "sy-q-001622"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-095",
+    "title": "在线教育案例95",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002700",
+      "sy-q-003173",
+      "sy-q-001980"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-096",
+    "title": "AI问答案例96",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001013",
+      "sy-q-000053",
+      "sy-q-003294"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-097",
+    "title": "缓存架构案例97",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001153",
+      "sy-q-000079",
+      "sy-q-001356"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-098",
+    "title": "限流方案案例98",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000047",
+      "sy-q-001934",
+      "sy-q-003331"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-099",
+    "title": "分库分表案例99",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001416",
+      "sy-q-001812",
+      "sy-q-002084"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-100",
+    "title": "系统设计面试案例100",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003274",
+      "sy-q-001499",
+      "sy-q-002639"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-101",
+    "title": "短链接系统案例101",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000027",
+      "sy-q-003120",
+      "sy-q-001421"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-102",
+    "title": "秒杀系统案例102",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001939",
+      "sy-q-001696",
+      "sy-q-001764"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-103",
+    "title": "登录系统案例103",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002086",
+      "sy-q-003359",
+      "sy-q-002806"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-104",
+    "title": "文件上传案例104",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002787",
+      "sy-q-002166",
+      "sy-q-001329"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-105",
+    "title": "消息通知案例105",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002375",
+      "sy-q-003081",
+      "sy-q-003578"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-106",
+    "title": "评论系统案例106",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000478",
+      "sy-q-002297",
+      "sy-q-002663"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-107",
+    "title": "点赞系统案例107",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000636",
+      "sy-q-002027",
+      "sy-q-000369"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-108",
+    "title": "排行榜案例108",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002408",
+      "sy-q-002910",
+      "sy-q-000955"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-109",
+    "title": "搜索系统案例109",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000706",
+      "sy-q-001143",
+      "sy-q-002685"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-110",
+    "title": "Feed流案例110",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003271",
+      "sy-q-000904",
+      "sy-q-000589"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-111",
+    "title": "订单系统案例111",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002014",
+      "sy-q-002361",
+      "sy-q-002377"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-112",
+    "title": "支付状态案例112",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003560",
+      "sy-q-001175",
+      "sy-q-003389"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-113",
+    "title": "库存系统案例113",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000626",
+      "sy-q-000482",
+      "sy-q-002031"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-114",
+    "title": "网盘系统案例114",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000288",
+      "sy-q-002913",
+      "sy-q-001060"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-115",
+    "title": "在线教育案例115",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002850",
+      "sy-q-001746",
+      "sy-q-001035"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-116",
+    "title": "AI问答案例116",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001432",
+      "sy-q-002124",
+      "sy-q-003330"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-117",
+    "title": "缓存架构案例117",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000947",
+      "sy-q-001278",
+      "sy-q-002618"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-118",
+    "title": "限流方案案例118",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001394",
+      "sy-q-000482",
+      "sy-q-002543"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-119",
+    "title": "分库分表案例119",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002026",
+      "sy-q-002035",
+      "sy-q-003181"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-120",
+    "title": "系统设计面试案例120",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002774",
+      "sy-q-002564",
+      "sy-q-000753"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-121",
+    "title": "短链接系统案例121",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000574",
+      "sy-q-003145",
+      "sy-q-003012"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-122",
+    "title": "秒杀系统案例122",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001174",
+      "sy-q-002366",
+      "sy-q-000208"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-123",
+    "title": "登录系统案例123",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003240",
+      "sy-q-000976",
+      "sy-q-002433"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-124",
+    "title": "文件上传案例124",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002629",
+      "sy-q-000953",
+      "sy-q-003665"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-125",
+    "title": "消息通知案例125",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001001",
+      "sy-q-001038",
+      "sy-q-001793"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-126",
+    "title": "评论系统案例126",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003452",
+      "sy-q-000348",
+      "sy-q-002540"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-127",
+    "title": "点赞系统案例127",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002885",
+      "sy-q-000811",
+      "sy-q-002105"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-128",
+    "title": "排行榜案例128",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003058",
+      "sy-q-003031",
+      "sy-q-000613"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-129",
+    "title": "搜索系统案例129",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000533",
+      "sy-q-003326",
+      "sy-q-001105"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-130",
+    "title": "Feed流案例130",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002100",
+      "sy-q-002090",
+      "sy-q-003225"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-131",
+    "title": "订单系统案例131",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000095",
+      "sy-q-002429",
+      "sy-q-001032"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-132",
+    "title": "支付状态案例132",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001756",
+      "sy-q-000863",
+      "sy-q-001431"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-133",
+    "title": "库存系统案例133",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000053",
+      "sy-q-001296",
+      "sy-q-000402"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-134",
+    "title": "网盘系统案例134",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003068",
+      "sy-q-000329",
+      "sy-q-000574"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-135",
+    "title": "在线教育案例135",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000227",
+      "sy-q-002732",
+      "sy-q-000263"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-136",
+    "title": "AI问答案例136",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002312",
+      "sy-q-000782",
+      "sy-q-001270"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-137",
+    "title": "缓存架构案例137",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000472",
+      "sy-q-003428",
+      "sy-q-000558"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-138",
+    "title": "限流方案案例138",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002021",
+      "sy-q-002587",
+      "sy-q-002677"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-139",
+    "title": "分库分表案例139",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000232",
+      "sy-q-001331",
+      "sy-q-001715"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-140",
+    "title": "系统设计面试案例140",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003537",
+      "sy-q-002062",
+      "sy-q-003045"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-141",
+    "title": "短链接系统案例141",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001504",
+      "sy-q-002952",
+      "sy-q-000239"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-142",
+    "title": "秒杀系统案例142",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003173",
+      "sy-q-000051",
+      "sy-q-002512"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-143",
+    "title": "登录系统案例143",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000720",
+      "sy-q-002000",
+      "sy-q-003683"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-144",
+    "title": "文件上传案例144",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000078",
+      "sy-q-001822",
+      "sy-q-001011"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-145",
+    "title": "消息通知案例145",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002184",
+      "sy-q-000399",
+      "sy-q-001695"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-146",
+    "title": "评论系统案例146",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002777",
+      "sy-q-003376",
+      "sy-q-003627"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-147",
+    "title": "点赞系统案例147",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000397",
+      "sy-q-000522",
+      "sy-q-001006"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-148",
+    "title": "排行榜案例148",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000544",
+      "sy-q-003407",
+      "sy-q-000410"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-149",
+    "title": "搜索系统案例149",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000730",
+      "sy-q-001831",
+      "sy-q-000851"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-150",
+    "title": "Feed流案例150",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002690",
+      "sy-q-000716",
+      "sy-q-002637"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-151",
+    "title": "订单系统案例151",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002485",
+      "sy-q-003022",
+      "sy-q-002721"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-152",
+    "title": "支付状态案例152",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001468",
+      "sy-q-001121",
+      "sy-q-000837"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-153",
+    "title": "库存系统案例153",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003103",
+      "sy-q-000585",
+      "sy-q-002474"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-154",
+    "title": "网盘系统案例154",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002114",
+      "sy-q-001354",
+      "sy-q-003069"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-155",
+    "title": "在线教育案例155",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000804",
+      "sy-q-001845",
+      "sy-q-001132"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-156",
+    "title": "AI问答案例156",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002603",
+      "sy-q-000790",
+      "sy-q-002822"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-157",
+    "title": "缓存架构案例157",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000023",
+      "sy-q-003106",
+      "sy-q-002164"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-158",
+    "title": "限流方案案例158",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000475",
+      "sy-q-002099",
+      "sy-q-003642"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-159",
+    "title": "分库分表案例159",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002496",
+      "sy-q-001570",
+      "sy-q-003478"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-160",
+    "title": "系统设计面试案例160",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002851",
+      "sy-q-002749",
+      "sy-q-000512"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-161",
+    "title": "短链接系统案例161",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001480",
+      "sy-q-001521",
+      "sy-q-002727"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-162",
+    "title": "秒杀系统案例162",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003147",
+      "sy-q-000053",
+      "sy-q-000811"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-163",
+    "title": "登录系统案例163",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003299",
+      "sy-q-003636",
+      "sy-q-002426"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-164",
+    "title": "文件上传案例164",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003431",
+      "sy-q-000018",
+      "sy-q-000524"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-165",
+    "title": "消息通知案例165",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000004",
+      "sy-q-001190",
+      "sy-q-003382"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-166",
+    "title": "评论系统案例166",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001904",
+      "sy-q-002367",
+      "sy-q-001045"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-167",
+    "title": "点赞系统案例167",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001343",
+      "sy-q-000724",
+      "sy-q-002399"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-168",
+    "title": "排行榜案例168",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001581",
+      "sy-q-000409",
+      "sy-q-000638"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-169",
+    "title": "搜索系统案例169",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000154",
+      "sy-q-000249",
+      "sy-q-000871"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-170",
+    "title": "Feed流案例170",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001385",
+      "sy-q-002145",
+      "sy-q-001213"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-171",
+    "title": "订单系统案例171",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000148",
+      "sy-q-000446",
+      "sy-q-003128"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-172",
+    "title": "支付状态案例172",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002339",
+      "sy-q-002458",
+      "sy-q-001410"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-173",
+    "title": "库存系统案例173",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001361",
+      "sy-q-000186",
+      "sy-q-000042"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-174",
+    "title": "网盘系统案例174",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002087",
+      "sy-q-003494",
+      "sy-q-001755"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-175",
+    "title": "在线教育案例175",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001422",
+      "sy-q-002913",
+      "sy-q-002784"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-176",
+    "title": "AI问答案例176",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003635",
+      "sy-q-000069",
+      "sy-q-001626"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-177",
+    "title": "缓存架构案例177",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001005",
+      "sy-q-003509",
+      "sy-q-002966"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-178",
+    "title": "限流方案案例178",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000877",
+      "sy-q-000891",
+      "sy-q-001597"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-179",
+    "title": "分库分表案例179",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002896",
+      "sy-q-000051",
+      "sy-q-001810"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-180",
+    "title": "系统设计面试案例180",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000113",
+      "sy-q-000047",
+      "sy-q-002999"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-181",
+    "title": "短链接系统案例181",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001892",
+      "sy-q-001141",
+      "sy-q-001715"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-182",
+    "title": "秒杀系统案例182",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000562",
+      "sy-q-001290",
+      "sy-q-001136"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-183",
+    "title": "登录系统案例183",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000568",
+      "sy-q-002608",
+      "sy-q-000968"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-184",
+    "title": "文件上传案例184",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000048",
+      "sy-q-001967",
+      "sy-q-003249"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-185",
+    "title": "消息通知案例185",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002139",
+      "sy-q-002432",
+      "sy-q-002901"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-186",
+    "title": "评论系统案例186",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001465",
+      "sy-q-001244",
+      "sy-q-000225"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-187",
+    "title": "点赞系统案例187",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001188",
+      "sy-q-001178",
+      "sy-q-002802"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-188",
+    "title": "排行榜案例188",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001878",
+      "sy-q-000726",
+      "sy-q-001856"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-189",
+    "title": "搜索系统案例189",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002519",
+      "sy-q-003053",
+      "sy-q-002161"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-190",
+    "title": "Feed流案例190",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000432",
+      "sy-q-000539",
+      "sy-q-003254"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-191",
+    "title": "订单系统案例191",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002707",
+      "sy-q-000508",
+      "sy-q-003068"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-192",
+    "title": "支付状态案例192",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000832",
+      "sy-q-000535",
+      "sy-q-000841"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-193",
+    "title": "库存系统案例193",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000146",
+      "sy-q-001317",
+      "sy-q-000236"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-194",
+    "title": "网盘系统案例194",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003602",
+      "sy-q-000513",
+      "sy-q-002862"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-195",
+    "title": "在线教育案例195",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001676",
+      "sy-q-001200",
+      "sy-q-001303"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-196",
+    "title": "AI问答案例196",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002501",
+      "sy-q-000944",
+      "sy-q-000318"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-197",
+    "title": "缓存架构案例197",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000823",
+      "sy-q-002600",
+      "sy-q-001238"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-198",
+    "title": "限流方案案例198",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003322",
+      "sy-q-003610",
+      "sy-q-001391"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-199",
+    "title": "分库分表案例199",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002688",
+      "sy-q-001406",
+      "sy-q-002230"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-200",
+    "title": "系统设计面试案例200",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001775",
+      "sy-q-000801",
+      "sy-q-001102"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-201",
+    "title": "短链接系统案例201",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003141",
+      "sy-q-000661",
+      "sy-q-003655"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-202",
+    "title": "秒杀系统案例202",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001957",
+      "sy-q-001341",
+      "sy-q-001936"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-203",
+    "title": "登录系统案例203",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002251",
+      "sy-q-003442",
+      "sy-q-003233"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-204",
+    "title": "文件上传案例204",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003155",
+      "sy-q-002812",
+      "sy-q-001079"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-205",
+    "title": "消息通知案例205",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002647",
+      "sy-q-002029",
+      "sy-q-000289"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-206",
+    "title": "评论系统案例206",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001138",
+      "sy-q-000926",
+      "sy-q-003452"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-207",
+    "title": "点赞系统案例207",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003317",
+      "sy-q-002567",
+      "sy-q-001604"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-208",
+    "title": "排行榜案例208",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002466",
+      "sy-q-002091",
+      "sy-q-002987"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-209",
+    "title": "搜索系统案例209",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000542",
+      "sy-q-001428",
+      "sy-q-002804"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-210",
+    "title": "Feed流案例210",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001056",
+      "sy-q-003231",
+      "sy-q-001733"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-211",
+    "title": "订单系统案例211",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002165",
+      "sy-q-002722",
+      "sy-q-003222"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-212",
+    "title": "支付状态案例212",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000035",
+      "sy-q-000136",
+      "sy-q-003027"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-213",
+    "title": "库存系统案例213",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003033",
+      "sy-q-002941",
+      "sy-q-002590"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-214",
+    "title": "网盘系统案例214",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003103",
+      "sy-q-001486",
+      "sy-q-001757"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-215",
+    "title": "在线教育案例215",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001941",
+      "sy-q-003447",
+      "sy-q-003254"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-216",
+    "title": "AI问答案例216",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003532",
+      "sy-q-000357",
+      "sy-q-002247"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-217",
+    "title": "缓存架构案例217",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000762",
+      "sy-q-001917",
+      "sy-q-000059"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-218",
+    "title": "限流方案案例218",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000557",
+      "sy-q-002338",
+      "sy-q-002211"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-219",
+    "title": "分库分表案例219",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000210",
+      "sy-q-001523",
+      "sy-q-001342"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-220",
+    "title": "系统设计面试案例220",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002358",
+      "sy-q-002469",
+      "sy-q-001660"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-221",
+    "title": "短链接系统案例221",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003687",
+      "sy-q-000607",
+      "sy-q-002929"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-222",
+    "title": "秒杀系统案例222",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002609",
+      "sy-q-002775",
+      "sy-q-003024"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-223",
+    "title": "登录系统案例223",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001564",
+      "sy-q-000144",
+      "sy-q-001704"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-224",
+    "title": "文件上传案例224",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000797",
+      "sy-q-000052",
+      "sy-q-000441"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-225",
+    "title": "消息通知案例225",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001536",
+      "sy-q-000182",
+      "sy-q-001397"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-226",
+    "title": "评论系统案例226",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000973",
+      "sy-q-003658",
+      "sy-q-002299"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-227",
+    "title": "点赞系统案例227",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001511",
+      "sy-q-003675",
+      "sy-q-003649"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-228",
+    "title": "排行榜案例228",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003387",
+      "sy-q-003685",
+      "sy-q-000073"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-229",
+    "title": "搜索系统案例229",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001078",
+      "sy-q-003141",
+      "sy-q-000950"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-230",
+    "title": "Feed流案例230",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002845",
+      "sy-q-001005",
+      "sy-q-000401"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-231",
+    "title": "订单系统案例231",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002786",
+      "sy-q-000877",
+      "sy-q-002781"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-232",
+    "title": "支付状态案例232",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001933",
+      "sy-q-003275",
+      "sy-q-001898"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-233",
+    "title": "库存系统案例233",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002451",
+      "sy-q-003527",
+      "sy-q-003004"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-234",
+    "title": "网盘系统案例234",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002136",
+      "sy-q-003380",
+      "sy-q-001675"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-235",
+    "title": "在线教育案例235",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000297",
+      "sy-q-002766",
+      "sy-q-002594"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-236",
+    "title": "AI问答案例236",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000923",
+      "sy-q-002565",
+      "sy-q-002563"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-237",
+    "title": "缓存架构案例237",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002733",
+      "sy-q-000427",
+      "sy-q-003468"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-238",
+    "title": "限流方案案例238",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002813",
+      "sy-q-000989",
+      "sy-q-000702"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-239",
+    "title": "分库分表案例239",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002017",
+      "sy-q-000182",
+      "sy-q-003637"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-240",
+    "title": "系统设计面试案例240",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001240",
+      "sy-q-003198",
+      "sy-q-002446"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-241",
+    "title": "短链接系统案例241",
+    "description": "通过短链接系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000678",
+      "sy-q-000716",
+      "sy-q-000610"
+    ],
+    "tags": [
+      "短链接系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-242",
+    "title": "秒杀系统案例242",
+    "description": "通过秒杀系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003497",
+      "sy-q-002735",
+      "sy-q-000656"
+    ],
+    "tags": [
+      "秒杀系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-243",
+    "title": "登录系统案例243",
+    "description": "通过登录系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003346",
+      "sy-q-000795",
+      "sy-q-000228"
+    ],
+    "tags": [
+      "登录系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-244",
+    "title": "文件上传案例244",
+    "description": "通过文件上传掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000475",
+      "sy-q-002054",
+      "sy-q-002158"
+    ],
+    "tags": [
+      "文件上传"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-245",
+    "title": "消息通知案例245",
+    "description": "通过消息通知掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002392",
+      "sy-q-003494",
+      "sy-q-000176"
+    ],
+    "tags": [
+      "消息通知"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-246",
+    "title": "评论系统案例246",
+    "description": "通过评论系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000244",
+      "sy-q-000962",
+      "sy-q-002285"
+    ],
+    "tags": [
+      "评论系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-247",
+    "title": "点赞系统案例247",
+    "description": "通过点赞系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000469",
+      "sy-q-000959",
+      "sy-q-002360"
+    ],
+    "tags": [
+      "点赞系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-248",
+    "title": "排行榜案例248",
+    "description": "通过排行榜掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000400",
+      "sy-q-003145",
+      "sy-q-000760"
+    ],
+    "tags": [
+      "排行榜"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-249",
+    "title": "搜索系统案例249",
+    "description": "通过搜索系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001077",
+      "sy-q-000607",
+      "sy-q-002540"
+    ],
+    "tags": [
+      "搜索系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-250",
+    "title": "Feed流案例250",
+    "description": "通过Feed流掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001578",
+      "sy-q-001936",
+      "sy-q-003665"
+    ],
+    "tags": [
+      "Feed流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-251",
+    "title": "订单系统案例251",
+    "description": "通过订单系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-003208",
+      "sy-q-002363",
+      "sy-q-003242"
+    ],
+    "tags": [
+      "订单系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-252",
+    "title": "支付状态案例252",
+    "description": "通过支付状态掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001708",
+      "sy-q-002702",
+      "sy-q-003552"
+    ],
+    "tags": [
+      "支付状态"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-253",
+    "title": "库存系统案例253",
+    "description": "通过库存系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001773",
+      "sy-q-000595",
+      "sy-q-001101"
+    ],
+    "tags": [
+      "库存系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-254",
+    "title": "网盘系统案例254",
+    "description": "通过网盘系统掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001045",
+      "sy-q-001077",
+      "sy-q-003560"
+    ],
+    "tags": [
+      "网盘系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-255",
+    "title": "在线教育案例255",
+    "description": "通过在线教育掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000176",
+      "sy-q-001659",
+      "sy-q-003413"
+    ],
+    "tags": [
+      "在线教育"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-256",
+    "title": "AI问答案例256",
+    "description": "通过AI问答掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000904",
+      "sy-q-001994",
+      "sy-q-002344"
+    ],
+    "tags": [
+      "AI问答"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-257",
+    "title": "缓存架构案例257",
+    "description": "通过缓存架构掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000842",
+      "sy-q-000851",
+      "sy-q-002032"
+    ],
+    "tags": [
+      "缓存架构"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-258",
+    "title": "限流方案案例258",
+    "description": "通过限流方案掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-000608",
+      "sy-q-001431",
+      "sy-q-001838"
+    ],
+    "tags": [
+      "限流方案"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-259",
+    "title": "分库分表案例259",
+    "description": "通过分库分表掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-002229",
+      "sy-q-000438",
+      "sy-q-000072"
+    ],
+    "tags": [
+      "分库分表"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "sy-case-260",
+    "title": "系统设计面试案例260",
+    "description": "通过系统设计面试掌握SD",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "需求",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "架构"
+      },
+      {
+        "order": 3,
+        "title": "设计",
+        "description": "详细"
+      },
+      {
+        "order": 4,
+        "title": "权衡",
+        "description": "评估"
+      }
+    ],
+    "relatedQuestionIds": [
+      "sy-q-001089",
+      "sy-q-001671",
+      "sy-q-003497"
+    ],
+    "tags": [
+      "系统设计面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
