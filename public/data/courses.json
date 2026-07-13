@@ -34,7 +34,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-001",
+      "sy-lesson-002",
+      "sy-lesson-003",
+      "sy-lesson-004",
+      "sy-lesson-005",
+      "sy-lesson-006",
+      "sy-lesson-007",
+      "sy-lesson-008",
+      "sy-lesson-009",
+      "sy-lesson-010",
+      "sy-lesson-011",
+      "sy-lesson-012",
+      "sy-lesson-013"
+    ],
+    "summary": "系统设计定义、架构思维、学习路线。"
   },
   {
     "id": "sy-course-02",
@@ -71,7 +87,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-014",
+      "sy-lesson-015",
+      "sy-lesson-016",
+      "sy-lesson-017",
+      "sy-lesson-018",
+      "sy-lesson-019",
+      "sy-lesson-020",
+      "sy-lesson-021",
+      "sy-lesson-022",
+      "sy-lesson-023",
+      "sy-lesson-024",
+      "sy-lesson-025",
+      "sy-lesson-026"
+    ],
+    "summary": "功能需求、非功能需求、QPS/存储估算。"
   },
   {
     "id": "sy-course-03",
@@ -108,7 +140,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-027",
+      "sy-lesson-028",
+      "sy-lesson-029",
+      "sy-lesson-030",
+      "sy-lesson-031",
+      "sy-lesson-032",
+      "sy-lesson-033",
+      "sy-lesson-034",
+      "sy-lesson-035",
+      "sy-lesson-036",
+      "sy-lesson-037",
+      "sy-lesson-038",
+      "sy-lesson-039"
+    ],
+    "summary": "单体->分层->微服务演进、架构权衡。"
   },
   {
     "id": "sy-course-04",
@@ -145,7 +193,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-040",
+      "sy-lesson-041",
+      "sy-lesson-042",
+      "sy-lesson-043",
+      "sy-lesson-044",
+      "sy-lesson-045",
+      "sy-lesson-046",
+      "sy-lesson-047",
+      "sy-lesson-048",
+      "sy-lesson-049",
+      "sy-lesson-050",
+      "sy-lesson-051",
+      "sy-lesson-052"
+    ],
+    "summary": "并发模型、QPS/TPS、RT、性能压测。"
   },
   {
     "id": "sy-course-05",
@@ -182,7 +246,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-053",
+      "sy-lesson-054",
+      "sy-lesson-055",
+      "sy-lesson-056",
+      "sy-lesson-057",
+      "sy-lesson-058",
+      "sy-lesson-059",
+      "sy-lesson-060",
+      "sy-lesson-061",
+      "sy-lesson-062",
+      "sy-lesson-063",
+      "sy-lesson-064",
+      "sy-lesson-065"
+    ],
+    "summary": "DNS/反向代理/网关层负载、无状态扩展。"
   },
   {
     "id": "sy-course-06",
@@ -219,7 +299,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-066",
+      "sy-lesson-067",
+      "sy-lesson-068",
+      "sy-lesson-069",
+      "sy-lesson-070",
+      "sy-lesson-071",
+      "sy-lesson-072",
+      "sy-lesson-073",
+      "sy-lesson-074",
+      "sy-lesson-075",
+      "sy-lesson-076",
+      "sy-lesson-077",
+      "sy-lesson-078"
+    ],
+    "summary": "缓存层次、Redis、CDN、缓存策略。"
   },
   {
     "id": "sy-course-07",
@@ -256,7 +352,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-079",
+      "sy-lesson-080",
+      "sy-lesson-081",
+      "sy-lesson-082",
+      "sy-lesson-083",
+      "sy-lesson-084",
+      "sy-lesson-085",
+      "sy-lesson-086",
+      "sy-lesson-087",
+      "sy-lesson-088",
+      "sy-lesson-089",
+      "sy-lesson-090",
+      "sy-lesson-091"
+    ],
+    "summary": "索引优化、主从复制、读写分离、连接池。"
   },
   {
     "id": "sy-course-08",
@@ -293,7 +405,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-092",
+      "sy-lesson-093",
+      "sy-lesson-094",
+      "sy-lesson-095",
+      "sy-lesson-096",
+      "sy-lesson-097",
+      "sy-lesson-098",
+      "sy-lesson-099",
+      "sy-lesson-100",
+      "sy-lesson-101",
+      "sy-lesson-102",
+      "sy-lesson-103",
+      "sy-lesson-104"
+    ],
+    "summary": "水平/垂直分片、分片键、全局ID、迁移。"
   },
   {
     "id": "sy-course-09",
@@ -330,7 +458,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-105",
+      "sy-lesson-106",
+      "sy-lesson-107",
+      "sy-lesson-108",
+      "sy-lesson-109",
+      "sy-lesson-110",
+      "sy-lesson-111",
+      "sy-lesson-112",
+      "sy-lesson-113",
+      "sy-lesson-114",
+      "sy-lesson-115",
+      "sy-lesson-116",
+      "sy-lesson-117"
+    ],
+    "summary": "MQ应用场景、异步解耦、削峰。"
   },
   {
     "id": "sy-course-10",
@@ -367,7 +511,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-118",
+      "sy-lesson-119",
+      "sy-lesson-120",
+      "sy-lesson-121",
+      "sy-lesson-122",
+      "sy-lesson-123",
+      "sy-lesson-124",
+      "sy-lesson-125",
+      "sy-lesson-126",
+      "sy-lesson-127",
+      "sy-lesson-128",
+      "sy-lesson-129",
+      "sy-lesson-130"
+    ],
+    "summary": "限流算法、熔断器模式、降级策略、隔离。"
   },
   {
     "id": "sy-course-11",
@@ -404,7 +564,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-131",
+      "sy-lesson-132",
+      "sy-lesson-133",
+      "sy-lesson-134",
+      "sy-lesson-135",
+      "sy-lesson-136",
+      "sy-lesson-137",
+      "sy-lesson-138",
+      "sy-lesson-139",
+      "sy-lesson-140",
+      "sy-lesson-141",
+      "sy-lesson-142",
+      "sy-lesson-143"
+    ],
+    "summary": "幂等方案、重试策略、强/最终一致性。"
   },
   {
     "id": "sy-course-12",
@@ -441,7 +617,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-144",
+      "sy-lesson-145",
+      "sy-lesson-146",
+      "sy-lesson-147",
+      "sy-lesson-148",
+      "sy-lesson-149",
+      "sy-lesson-150",
+      "sy-lesson-151",
+      "sy-lesson-152",
+      "sy-lesson-153",
+      "sy-lesson-154",
+      "sy-lesson-155",
+      "sy-lesson-156"
+    ],
+    "summary": "CAP/BASE、2PC、TCC、Saga、本地消息表。"
   },
   {
     "id": "sy-course-13",
@@ -478,7 +670,23 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-157",
+      "sy-lesson-158",
+      "sy-lesson-159",
+      "sy-lesson-160",
+      "sy-lesson-161",
+      "sy-lesson-162",
+      "sy-lesson-163",
+      "sy-lesson-164",
+      "sy-lesson-165",
+      "sy-lesson-166",
+      "sy-lesson-167",
+      "sy-lesson-168",
+      "sy-lesson-169"
+    ],
+    "summary": "Logging/Metrics/Tracing、ELK、Prometheus、Grafana。"
   },
   {
     "id": "sy-course-14",
@@ -515,6 +723,22 @@
       "会设计高并发系统",
       "能完成面试"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "sy-lesson-170",
+      "sy-lesson-171",
+      "sy-lesson-172",
+      "sy-lesson-173",
+      "sy-lesson-174",
+      "sy-lesson-175",
+      "sy-lesson-176",
+      "sy-lesson-177",
+      "sy-lesson-178",
+      "sy-lesson-179",
+      "sy-lesson-180",
+      "sy-lesson-181",
+      "sy-lesson-182"
+    ],
+    "summary": "经典设计案例、面试框架、作品集。"
   }
 ]
